@@ -1,0 +1,19 @@
+.header{
+ height: 600px;
+ background-color: bisque;
+ text-align: center;
+ background-image: url('/day1/images/20190903195900_IMG_0005.jpg');
+ background-size:cover;
+ background-repeat: no-repeat;
+}
+h3{
+ font-size: 30px;
+ color: rgb(38, 0, 255);
+ text-decoration: overline;
+ text-decoration-color: rgb(255, 0, 0);
+}
+.blog{
+ border: 1px solid black;
+ margin: 40px;
+ box-shadow: 10px 10px 10px;
+}
